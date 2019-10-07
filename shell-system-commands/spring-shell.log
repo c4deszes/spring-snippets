@@ -1,0 +1,35 @@
+1570457935873:help
+1570457941227:syscmd echo Hello
+1570457953087:stacktrace
+1570457995491:syscmd echo Hello
+1570458000021:stacktrace
+1570458084047:clear
+1570458097097:syscmd clear
+1570458106857:syscmd echo Hello
+1570458110683:stacktrace
+1570458173110:syscmd echo Hello
+1570458297074:help
+1570458312320:syscmd echo "Hello"
+1570458610924:syscmd sh -c echo "Hello"
+1570458627785:syscmd sh -c "echo Hello"
+1570458688905:syscmd cmd -c "echo Hello"
+1570458731437:syscmd ipconfig
+1570458763893:syscmd cmd ipconfig
+1570458817296:syscmd cmd.exe /c echo Hello
+1570458845311:syscmd cmd.exe
+1570459045042:syscmd echo Hello
+1570459242812:syscmd cmd.exe /c "echo Hello"
+1570459293161:syscmd cmd.exe /c echo hello
+1570459383699:syscmdcmd.exe /c echo hello
+1570459396296:clear
+1570459402315:syscmd cmd.exe /c echo hello
+1570460695450:syscmd docker ps
+1570460708967:syscmd cmd.exe /c echo hello
+1570460727124:syscmd cmd.exe /c "Hello world"
+1570460741786:syscmd cmd.exe /c echo "Hello world!"
+1570460938373:syscmd docker.exe ps
+1570460946953:syscmd cmd.exe /c docker ps
+1570460984463:syscmd cmd.exe /c help
+1570467222396:syscmd docker ps
+1570467245108:syscmd cmd.exe /c docker.exe ps
+1570467250986:syscmd cmd.exe /c echo Hello
